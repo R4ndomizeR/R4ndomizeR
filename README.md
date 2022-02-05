@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**R4ndomizeR/R4ndomizeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Web Developer
 
-Here are some ideas to get you started:
+```js
+techStack = {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    languages: [
+        "JavaScript", "C++", "C#",
+    ],
+
+    frontend: [
+        "HTML5", "CSS3", "SASS", "Vue 3",
+    ],
+
+    backend: [
+        "Node.js", "MongoDB", ".NET", "PHP", "MySQL", "Nginx"
+    ],
+
+    tools: [
+        "Visual Studio Code", "ESLint",
+        "Visual Studio IDE", "Git",
+        "Notepad++", "NPM", "GNU Bash"
+    ],
+
+    os: [
+        "Windows", "Debian"
+    ]
+
+}
+```
