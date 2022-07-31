@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Web Developer
+<!--## I'm a Web Developer
 
 ```js
 techStack = {
@@ -29,4 +29,5 @@ techStack = {
 
 }
 ```
+-->
 
