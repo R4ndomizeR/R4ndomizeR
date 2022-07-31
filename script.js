@@ -12,8 +12,12 @@ const projects = [
     url: 'https://r4ndomizer.github.io/SpaceX/'
   },
   {
-    title: 'Minesweeper',
-    url: 'https://r4ndomizer.github.io/Minesweeper/'
+    title: 'Developer-test',
+    url: 'https://r4ndomizer.github.io/frontend-developer-test/'
+  },
+  {
+    title: 'Review-test',
+    url: 'https://r4ndomizer.github.io/frontend-review-test/'
   }
 ]
 

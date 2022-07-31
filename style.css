@@ -39,7 +39,7 @@ body {
 
 .page {
   color: var(--color-1);
-  background-color: currentColor;
+  background-color: var(--color-1);
 
   font-family: 'JetBrains Mono', monospace;
 }
@@ -53,6 +53,8 @@ body {
   z-index: 0;
 
   opacity: 1;
+
+  background-color: #fff;
 }
 
 .page__main {
@@ -102,8 +104,9 @@ body {
 }
 
 .page__main--opened+#page__frame {
-  opacity: 0.5;
+  opacity: 0.1;
   pointer-events: none;
+  z-index: 0;
 }
 
 .page__main--collapsed~.page__main-tab {
